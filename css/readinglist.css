@@ -1,0 +1,11 @@
+html {
+    font-size: 16px;
+}
+body {
+    font-size: 62.5%;
+	margin: 15px;
+	/*background: url('pattern_40.gif');  use only with linkGroupGlow */
+}
+h3 {
+    margin-top:0px;
+}
