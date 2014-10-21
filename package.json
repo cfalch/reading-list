@@ -1,0 +1,13 @@
+{
+  "name": "readinglist",
+  "private": true,
+  "version": "0.0.0",
+  "description": "Lister (tm)",
+  "repository": "https://github.com/cfalch/reading-list.git",
+  "license": "???",
+  "devDependencies": {
+  },
+  "scripts": {
+    "start": "http-server -a localhost -p 5555 -c-1"
+  }
+}
